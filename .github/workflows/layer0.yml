@@ -63,12 +63,23 @@ jobs:
             ${{ runner.os }}-build-${{ env.cache-name }}-
             ${{ runner.os }}-build-
             ${{ runner.os }}-
-      - name: Install packages
+            
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0 # Not needed with a .ruby-version file
+      - name: Build site at Docs dir # build site at docs folder which is my ghpages site location
         run: |
-          gem install bundler jekyll
-          bundle exec jekyll build
-        # npm ci # if using npm for your project
-        #  run: rm -rf node_modules && yarn install --frozen-lockfile # if using yarn for your project
+          rm -rf .bundle
+          rm -rf Gemfile.lock
+          bundle install --no-deployment
+          bundle exec jekyll build -d  _site
+            
+#       - name: Install packages
+#         run: |
+#           gem install bundler jekyll
+#           bundle exec jekyll build
+#         # npm ci # if using npm for your project
+#         #  run: rm -rf node_modules && yarn install --frozen-lockfile # if using yarn for your project
       - name: Deploy to Edgio
         run: |
           npm run deploy -- ${{'--branch=$BRANCH_NAME' || ''}} --token=$deploy_token  \
