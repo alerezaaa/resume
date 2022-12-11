@@ -100,7 +100,7 @@ experiences:
           Main skills involved is:
             - Machine Learning
             - Image Processing
-            - Programming skills (Python and a bit C &num; to read written code)
+            - Programming skills (Python and a bit C# to read written code)
       - role: Assistant Producer
         time: 2018 - 2021
         company: University of Tabriz
@@ -111,15 +111,7 @@ experiences:
           I'm still rarely involved in their project.
             - Remote Controller for Silage Block Cutting Machine Remote
             - Rasberry Pi Image Processing
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis 
-            - Bullet point
-            - Bullet point
+
 projects:
     title: Projects
     intro: >
@@ -172,10 +164,6 @@ publications:
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
