@@ -75,10 +75,11 @@ jobs:
       
       - name: Deploy to Edgio
         run: |
-          npm i -g @edgio/cli
-          npm i -g @edgio/core
-          edgio init
-          edgio deploy my-site --token=$deploy_token
+          npx @layer0/cli@latest init \
+            --name zero.alerezaa.ir \
+            --environment production \
+            --origin zero.alerezaa.ir \
+            --deploy
 
         env:
           deploy_token: ${{secrets.LAYER0_DEPLOY_TOKEN}}
