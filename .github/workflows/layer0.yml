@@ -52,7 +52,7 @@ jobs:
       - uses: actions/checkout@v1
       - uses: actions/setup-node@v1
         with:
-          node-version: 14
+          node-version: 16
       - name: Cache node modules
         uses: actions/cache@v1
         env:
@@ -79,6 +79,7 @@ jobs:
           npm i -g @layer0/core
           0 init
           layer0 init
+          layer0 deploy my-site --token=$deploy_token
           npm run deploy -- ${{'--branch=$BRANCH_NAME' || ''}} --token=$deploy_token  \
           ${{github.event_name == 'push' && '--environment=default' || ''}} \
           ${{github.event_name == 'pull_request' && '--environment=staging' || ''}} \
