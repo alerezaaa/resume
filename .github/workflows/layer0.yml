@@ -77,7 +77,6 @@ jobs:
         run: |
           npm i -g @edgio/cli
           npm i -g @edgio/core
-          0 init
           edgio init
           edgio deploy my-site --token=$deploy_token
 #          npm run deploy -- ${{'--branch=$BRANCH_NAME' || ''}} --token=$deploy_token  \
