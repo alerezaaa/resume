@@ -143,9 +143,6 @@ oss:
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -179,7 +176,7 @@ skills:
         level: 10%
 
       - name: Web Application Security
-        level: 28%
+        level: 21%
 
 
 footer: >
