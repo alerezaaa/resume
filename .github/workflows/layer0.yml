@@ -72,7 +72,8 @@ jobs:
         run: |
           rm -rf .bundle
           rm -rf Gemfile.lock
-          bundle install --no-deployment
+          bundle config set --local deployment 'false'
+          bundle install
           bundle exec jekyll build -d  _site
             
 #       - name: Install packages
