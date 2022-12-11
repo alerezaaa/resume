@@ -65,15 +65,14 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
             
-      - uses: ruby/setup-ruby@v1
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
         with:
-          ruby-version: 3.0 # Not needed with a .ruby-version file
-      - name: Build site at Docs dir # build site at docs folder which is my ghpages site location
-        run: |
-          rm -rf .bundle
-          bundle config set --local deployment 'false'
-          bundle install
-          bundle exec jekyll build -d  _site
+          source: ./
+          destination: ./_site
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+
             
 #       - name: Install packages
 #         run: |
