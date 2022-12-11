@@ -75,13 +75,14 @@ jobs:
       
       - name: Deploy to Edgio
         run: |
-          npm i -g @edgio/cli
-          npm i -g @edgio/core
-          edgio init
-          edgio deploy my-site --token=$deploy_token
-#          npm run deploy -- ${{'--branch=$BRANCH_NAME' || ''}} --token=$deploy_token  \
-#          ${{github.event_name == 'push' && '--environment=default' || ''}} \
-#          ${{github.event_name == 'pull_request' && '--environment=staging' || ''}} \
-#          ${{github.event_name == 'release' && '--environment=production' || ''}}
+          npm run deploy -- ${{'--branch=$BRANCH_NAME' || ''}} --token=$deploy_token  \
+          ${{github.event_name == 'push' && '--environment=default' || ''}} \
+          ${{github.event_name == 'pull_request' && '--environment=staging' || ''}} \
+          ${{github.event_name == 'release' && '--environment=production' || ''}}
+#          npm i -g @edgio/cli
+#          npm i -g @edgio/core
+#          edgio init
+#          edgio deploy my-site --token=$deploy_token
+
         env:
           deploy_token: ${{secrets.LAYER0_DEPLOY_TOKEN}}
