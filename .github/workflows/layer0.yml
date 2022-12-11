@@ -64,7 +64,9 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
       - name: Install packages
-        run: bundle exec jekyll build
+        run: |
+          gem install bundler jekyll
+          bundle exec jekyll build
         # npm ci # if using npm for your project
         #  run: rm -rf node_modules && yarn install --frozen-lockfile # if using yarn for your project
       - name: Deploy to Edgio
