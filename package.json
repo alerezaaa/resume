@@ -8,10 +8,10 @@
     "layer0:start": "layer0 run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "name": "layer0-static-backbonejs-example",
+  "name": "zero.alerezaa.ir",
   "version": "1.0.0",
   "description": "",
-  "author": "Tristan Lee",
+  "author": "Alireza",
   "license": "ISC",
   "private": true,
   "devDependencies": {
