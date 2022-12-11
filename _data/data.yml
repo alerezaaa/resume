@@ -183,6 +183,15 @@ skills:
 
       - name: Bash
         level: 50%
+      
+      - name: JavaScript
+        level: 10%
+
+      - name: Network (Internet - TCP/IP)
+        level: 15%
+
+      - name: Web Application Security
+        level: 28%
 
 
 footer: >
