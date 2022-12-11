@@ -128,7 +128,7 @@ projects:
         link: "#hook"
         tagline: "Create an Image Processing service based on Rasberry Pi 4 as a project for a small manufactral Designing group."
 
-      - title: Remote Controller for a Silage Block Cutting MachineRemote
+      - title: Remote Controller for a Silage Block Cutting Machine Remote
         link: "#"
         tagline: "A remote controlling system to control the silage-cutting-machine using wireless technology. Android application developed by <a href="https://www.linkedin.com/in/ali-khalili-790b10146/">Eng. Ali Khalili</a>"
 
