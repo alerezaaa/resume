@@ -2,7 +2,7 @@ name: Deploy branch to Layer0
 
 on:
   push:
-    branches: [master, main]
+    branches: [master, gh-pages]
   pull_request:
   release:
     types: [published]
