@@ -72,12 +72,7 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
-
-            
-      - name: Install packages
-        run: npm ci # if using npm for your project
-        #  run: rm -rf node_modules && yarn install --frozen-lockfile # if using yarn for your project
-        
+      
       - name: Deploy to Edgio
         run: |
           npm run deploy -- ${{'--branch=$BRANCH_NAME' || ''}} --token=$deploy_token  \
