@@ -25,7 +25,10 @@ jobs:
       - name: Extract branch name
         shell: bash
         run: echo "BRANCH_NAME=$(echo ${GITHUB_REF#refs/heads/} | sed 's/\//_/g')" >> $GITHUB_ENV
-      - uses: actions/checkout@v1
+
+      - name: Checkout
+        uses: actions/checkout@v3
+      
       - uses: actions/setup-node@v1
         with:
           node-version: 14
@@ -41,8 +44,6 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
         
-      - name: Checkout
-        uses: actions/checkout@v3
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
