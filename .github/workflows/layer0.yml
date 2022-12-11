@@ -6,7 +6,8 @@ on:
   pull_request:
   release:
     types: [published]
-   workflow-dispatch:
+    
+  workflow_dispatch:
 
 jobs:
   deploy-to-layer0:
