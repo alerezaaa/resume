@@ -27,7 +27,7 @@ name: Deploy branch to Edgio
 
 on:
   push:
-    branches: [master, gh-pages]
+    branches: [layer0]
   pull_request:
   release:
     types: [published]
