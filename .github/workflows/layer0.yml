@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-    deploy-to-layer0:
+  deploy-to-layer0:
     # cancels the deployment for the automatic merge push created when tagging a release
     if: contains(github.ref, 'refs/tags') == false || github.event_name == 'release'
     runs-on: ubuntu-latest
