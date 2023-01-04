@@ -72,7 +72,8 @@ education:
         university: University of Tehran
         time: 2020 - Present
         details: |
-          Consist of at list 5 semesters (3 lecture based + 2 research based).<p>
+          Consist of at list 5 semesters (3 lecture based + 2 research based).
+          
           Some of noteworthy lectures: 
             - Artificial Intelligence (Machine Learning)
             - Limit Element Method
