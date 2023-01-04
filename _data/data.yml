@@ -71,10 +71,10 @@ education:
         time: 2020 - Present
         details: |
           Consist of 5 semesters (3 lecture based + 2 research based).
-          The first 3 semesters holded during coronavirus lock-down, so I didnt have much chance to conteact the professors.
+          The first 3 semesters holded during coronavirus lock-down, so I didnt have much chance to contact the professors.
           
           I'd like to write about lecture-based semesters here,
-          so some of noteworthy lectures are: 
+          so, some of noteworthy lectures are: 
             - Artificial Intelligence (Machine Learning)
             - Limit Element Method
             - Automatic Control Systems
@@ -83,12 +83,17 @@ education:
         university: University of Tabriz
         time: 2016 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
+          I wasn't (and am not) a studious student at all but
+          I'd like to involve in practical activities and unfortunatelly
+          academic system in Iran is not highly active. But its not the end.
+          First, I started to learn based on projects under supervising of
+          <a href='https://www.researchgate.net/profile/Hossein-Behfar'>Dr. Hossein Behfar</a>
+          but after one semester, my classmates decided to exit and I couldnt continue alone.
+          Short after, I start working with <a href='http://infoag.ir/en/'>Precision Agriculture group</a>
+          which I'm pround of it.
+          
+          Some of skills that I've learn from projects:
+            - Arduio
             - Bullet point
 experiences:
     title: Experiences
@@ -129,7 +134,28 @@ projects:
 
       - title: Remote Controller for Silage Block Cutting Machine Remote
         link: "#"
-        tagline: "A remote controlling system to control the silage-cutting-machine using wireless technology. Android application developed by <a href='https://www.linkedin.com/in/ali-khalili-790b10146/'>Eng. Ali Khalili</a>"
+        tagline: |
+            A remote controlling system to control the silage-cutting-machine using wireless technology.
+            Android application developed by <a href='https://www.linkedin.com/in/ali-khalili-790b10146/'>Eng. Ali Khalili</a>
+
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 40%
+
+      - name: Bash (linux)
+        level: 50%
+      
+      - name: JavaScript
+        level: 10%
+
+      - name: Web Application Security
+        level: 11%
+
 
 
 # oss:
@@ -165,22 +191,6 @@ projects:
 #         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
 #         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        level: 40%
-
-      - name: Bash (linux)
-        level: 50%
-      
-      - name: JavaScript
-        level: 10%
-
-      - name: Web Application Security
-        level: 11%
 
 
 footer: >
