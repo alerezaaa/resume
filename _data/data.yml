@@ -72,9 +72,11 @@ education:
         university: University of Tehran
         time: 2020 - Present
         details: |
-          Consist of at list 5 semesters (3 lecture based + 2 research based).
+          Consist of 5 semesters (3 lecture based + 2 research based).
+          The first 3 semesters holded during coronavirus lock-down, so I didnt have much chance to conteact the professors.
           
-          Some of noteworthy lectures: 
+          I'd like to write about lecture-based semesters here,
+          so some of noteworthy lectures are: 
             - Artificial Intelligence (Machine Learning)
             - Limit Element Method
             - Automatic Control Systems
@@ -98,12 +100,13 @@ experiences:
         company: University of Tehran
         details: |
           Researching on Machine Learning models to refine Reconstructed ECT images. (ECT: Electrical Capacitance Tomography)
-          Under supervising of Dr. Hossein Mousazadeh.
+          My master thesis recommended by supervisor, Dr. Hossein Mousazadeh.
           Based on request from Port &amp; Maritine Orginization of Iran.
           Main skills involved is:
             - Machine Learning
             - Image Processing
             - Programming skills (Python and a bit C# to read written code)
+
       - role: Assistant Producer
         time: 2018 - 2021
         company: University of Tabriz
@@ -131,38 +134,38 @@ projects:
         tagline: "A remote controlling system to control the silage-cutting-machine using wireless technology. Android application developed by <a href='https://www.linkedin.com/in/ali-khalili-790b10146/'>Eng. Ali Khalili</a>"
 
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
 
 skills:
