@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Alireza Dehghanzadeh
-    tagline: Researcher Student @ <a href="https://ut.ac.ir">ut.ac.ir</a>
+    tagline: Researcher Student @ <a href="https://ut.ac.ir/en">ut.ac.ir</a>
     avatar: Profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -23,7 +23,7 @@ sidebar:
     telegram: iAlirezaD # add your nickname without '@' sign
     gitlab: 
     bitbucket:
-    twitter: '@alerezaa'
+    twitter: '@alerezaa_'
     stack-overflow: 16308776/alireza # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -53,6 +53,9 @@ sidebar:
         - item: Machine Learning
           link:
 
+        - item: Cyber security
+          link:
+
 career-profile:
     title: Career Profile
     summary: |
@@ -67,15 +70,14 @@ education:
     info:
       - degree: MSc in Biosystems Engineering
         university: University of Tehran
-        time: 2020 - 2022
+        time: 2020 - Present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Consist of at list 5 semesters (3 lecture based + 2 research based).<p>
+          Some of noteworthy lectures: 
+            - Artificial Intelligence (Machine Learning)
+            - Limit Element Method
+            - Automatic Control Systems
+      
       - degree: BSc in Biosystems Engineering
         university: University of Tabriz
         time: 2016 - 2020
@@ -176,7 +178,7 @@ skills:
         level: 10%
 
       - name: Web Application Security
-        level: 21%
+        level: 11%
 
 
 footer: >
