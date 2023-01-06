@@ -128,7 +128,7 @@ experiences:
                 - Programming Arduino
                 - Electrical circuits
                 - Control systems
-            - Decision system based on image processing to cut produced pipe in specified regions
+            - Pipe cuttig decision system based in image processing using Raspberry Pi
                 - Linux fundementals (Raspberry Pi)
                 - Python
                 - Image Processing fundementals
@@ -140,7 +140,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Decision system based on image processing to cut produced pipe in specified regions using Raspberry Pi
+      - title: Pipe cuttig decision system based in image processing using Raspberry Pi
         link: "#hook"
         tagline: "Create an Image Processing service based on Rasberry Pi 4 as a project for a small manufactral Designing group."
 
