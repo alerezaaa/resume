@@ -73,8 +73,7 @@ education:
           Consist of 5 semesters (3 lecture based + 2 research based).
           The first 3 semesters holded during coronavirus lock-down, so I didnt have much chance to contact the professors.
           
-          I'd like to write about lecture-based semesters here,
-          so, some of noteworthy lectures are: 
+          Some of noteworthy lectures are: 
             - Artificial Intelligence (Machine Learning)
             - Limit Element Method
             - Automatic Control Systems
@@ -83,22 +82,24 @@ education:
         university: University of Tabriz
         time: 2016 - 2020
         details: |
-          I wasn't (and am not) a studious student at all but
-          I'd like to involve in practical activities and unfortunatelly
-          academic system in Iran is not highly active. But its not the end.
-          
           First, I started to learn based on projects under supervising of
           <a href='https://www.researchgate.net/profile/Hossein-Behfar'>Dr. Hossein Behfar</a>
-          but after one semester, my classmates decided to exit and I couldnt continue alone.
+          during <i>Measuring and Control tools</i> course,
+          but after a semester, my co-learners decided to exit and I couldnt continue alone.
           
           Shortly, I start working with <a href='http://infoag.ir/en/'>Precision Agriculture group</a>
           which I'm pround of it. (details in experience section below)
           
           Some of skills that I've learn from projects:
             - Arduio
-            - python
-            - C (programming language)
-
+            - Python
+            - Engineering Design
+            
+          Highlight courses which I'd like to share:
+            - Computer Programming (C programming language)
+            - Mechanical Engineering Design
+            - Measuring and Control tools
+            - Maintenance Engineering
 
 experiences:
     title: Experiences
