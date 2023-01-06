@@ -36,7 +36,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Proficiency
 
         - idiom: Azerbaijani
           level: Limited
@@ -95,7 +95,7 @@ education:
             - Python
             - Engineering Design
             
-          Highlight courses which I'd like to share:
+          Highlighted courses which I'd like to share:
             - Computer Programming (C programming language)
             - Mechanical Engineering Design
             - Measuring and Control tools
@@ -123,8 +123,11 @@ experiences:
           Working as a part of <a href='http://infoag.ir/en/'>Precision Agriculture group</a> at Biosystem Engineering department in University of Tabriz.
           Under supervising of <a href='https://www.researchgate.net/profile/Hossein-Navid'>Dr Hossein Navid</a>
           and advise of <a href='https://www.linkedin.com/in/hadi-karimi-77865b87/'>Dr Hadi Karimi</a>.
-          I'm still rarely involved in their project.
+          I'm rarely involved in their projects since I start master at University of Tehran. My projects/Contributions and skills involved listed below
             - Remote Controller for Silage Block Cutting Machine Remote
+                - Programming Arduino
+                - Electrical circuits
+                - Control systems
             - Rasberry Pi Image Processing
 
 projects:
