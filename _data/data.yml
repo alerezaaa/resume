@@ -151,7 +151,7 @@ projects:
             Android application developed by <a href='https://www.linkedin.com/in/ali-khalili-790b10146/'>Eng. Ali Khalili</a>
 
       - title: Basil Harvester
-        link: "#hook"
+        link: "https://alerezaa.ir/projects/basil_harvester/"
         tagline: |
             (Team project) Design a machine to harvest basils as a successor to Scissor Jack since we got the highest score.
             Team members: <a href="https://www.linkedin.com/in/anis-azarmikhah-65a131203/">Anis Azarmikhah</a>,
@@ -160,7 +160,7 @@ projects:
             Course: Design of Harvesting Machine
 
       - title: Scissor Jack
-        link: "#hook"
+        link: "https://alerezaa.ir/projects/scissor_jack/"
         tagline: |
             (Team project) Apply Mechanical Engineering Design knowledge to Design a scissor jack as a course project.
             Team members: <a href="https://www.linkedin.com/in/anis-azarmikhah-65a131203/">Anis Azarmikhah</a>,
