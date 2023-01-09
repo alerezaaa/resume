@@ -207,8 +207,8 @@ publications:
     papers:
       - title: Machine Learning
         link: "https://www.coursera.org/account/accomplishments/certificate/BEYRHUN8XPLX"
-        Issuing organization: Coursera (Stanford)
-        Introducer: Andrew Ng
+        authors: Andrew Ng
+        conference: Coursera (Stanford)
 
 #       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #         link: "#"
