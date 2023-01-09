@@ -200,17 +200,15 @@ skills:
 #         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+publications:
+    title: Certifications
+    intro: |
+      List of some of my certifications I've earned.
+    papers:
+      - title: Machine Learning
+        link: "https://www.coursera.org/account/accomplishments/certificate/BEYRHUN8XPLX"
+        Issuing organization: Coursera (Stanford)
+        Introducer: Andrew Ng
 
 #       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #         link: "#"
