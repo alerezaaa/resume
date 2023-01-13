@@ -134,9 +134,9 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I like practical learning.
       <b>Team project leads to acquiring new knowledge while
-      working on real project leads to deeper knowledge. </b>
+      working on real project leads to acquiring deeper knowledge.</b>
+      
     assignments:
       - title: Pipe cuttig decision system based in image processing using Raspberry Pi
         link: "#hook"
