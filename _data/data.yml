@@ -71,7 +71,7 @@ education:
         time: 2020 - Present
         details: |
           Consist of 5 semesters (3 lecture based + 2 research based).
-          The first 3 semesters holded during coronavirus lock-down, so I didnt have much chance to contact the professors.
+          The first 3 semesters holded during coronavirus lock-down, so I didnt have much luck to contact the professors.
           
           Some of noteworthy lectures are: 
             - Artificial Intelligence (Machine Learning)
@@ -95,7 +95,7 @@ education:
           
           Another great course that I had was Maintenance Engineering, taught by
           <a href='https://www.researchgate.net/profile/Hamid-Ghassemzadeh'>Prof. Hamid Reza Ghassemzadeh</a>.
-          If I want to name a course which I understood what is Engineering (and also Biosystem), that it.
+          If I want to name a course which I understood what is Engineering (and also Biosystem), that's it.
             
           Highlighted courses which I'd like to share:
             - Computer Programming (C programming language)
@@ -200,7 +200,7 @@ publications:
     title: Certifications
     intro: |
       There are tons of learning sources on the internet (even lots of repository on Github).
-      Here is some my acquired certifications:
+      Here is some of my acquired certifications:
     papers:
       - title: Machine Learning
         link: "https://www.coursera.org/account/accomplishments/certificate/BEYRHUN8XPLX"
