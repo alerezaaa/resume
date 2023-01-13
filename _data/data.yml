@@ -134,8 +134,9 @@ experiences:
 projects:
     title: Projects
     intro: >
-      <b>Team project leads to acquiring new knowledge while
-      working on real project leads to acquiring deeper knowledge.</b>
+      <b>Team projects lead to acquiring new knowledge while
+      working on real projects lead to acquiring deeper knowledge.</b>
+      It's not all about knowledge, it's about personality, mentality and so on.
       
     assignments:
       - title: Pipe cuttig decision system based in image processing using Raspberry Pi
