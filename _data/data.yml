@@ -109,7 +109,10 @@ experiences:
           Main skills involved is:
             - Machine Learning
             - Image Processing
-            - Programming skills (Python and a bit C# to read written code)
+            - Programming skills
+                - Python
+                - C# (to extend that I can read written codes)
+            - Mathematics (Understanding ETC reconstruction algorithms aspects)
 
       - role: Assistant Producer
         time: 2018 - 2021
@@ -120,7 +123,7 @@ experiences:
           and advise of <a href='https://www.linkedin.com/in/hadi-karimi-77865b87/'>Dr Hadi Karimi</a>.
           This connection won't be broken.
             - Remote Controller for Silage Block Cutting Machine Remote
-                - Programming Arduino
+                - Arduino Programming
                 - Electrical circuits
                 - Control systems
             - Pipe cuttig decision system based in image processing using Raspberry Pi
@@ -131,9 +134,9 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I like practical learning.
+      <b>Team project leads to acquiring new knowledge while
+      working on real project leads to deeper knowledge. </b>
     assignments:
       - title: Pipe cuttig decision system based in image processing using Raspberry Pi
         link: "#hook"
@@ -182,6 +185,23 @@ skills:
       - name: Web Application Security
         level: 4%
 
+publications:
+    title: Certifications
+    intro: |
+      There are tons of learning sources on the internet (even lots of repository on Github).
+      Here is some my acquired certifications:
+    papers:
+      - title: Machine Learning
+        link: "https://www.coursera.org/account/accomplishments/certificate/BEYRHUN8XPLX"
+        authors: Andrew Ng
+        conference: Coursera (Stanford)
+
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+
 
 
 # oss:
@@ -198,22 +218,6 @@ skills:
 #       - title: Atom
 #         link: "#"
 #         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-
-publications:
-    title: Certifications
-    intro: |
-      List of some of my certifications I've earned.
-    papers:
-      - title: Machine Learning
-        link: "https://www.coursera.org/account/accomplishments/certificate/BEYRHUN8XPLX"
-        authors: Andrew Ng
-        conference: Coursera (Stanford)
-
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
 
 
