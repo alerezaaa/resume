@@ -84,17 +84,27 @@ education:
         details: |
           First, I started to learn fundementals under supervising of
           <a href='https://www.researchgate.net/profile/Hossein-Behfar'>Dr. Hossein Behfar</a>
-          during <i>Measuring and Control tools</i> course (semester 5th),
-          but after a semester, my co-learners decided to exit and I couldnt continue alone.
+          during <i>Measuring and Control tools</i> course (semester 5th).
+          <a href='https://www.researchgate.net/profile/Hossein-Behfar'>Dr. Behfar</a>
+          taught electronics fundementals (theoretical and practical in lab) and
+          encouraged us to learn constantly.
+          After a several month, my co-learners decided to exit and I couldnt continue alone.
           
           Shortly, I start working with <a href='http://infoag.ir/en/'>Precision Agriculture group</a>
-          which I'm pround of it. (details in experience section below)
+          which was very nice. (details in experience section below)
+          
+          Another great course that I had was Maintenance Engineering, taught by
+          <a href='https://www.researchgate.net/profile/Hamid-Ghassemzadeh'>Prof. Hamid Reza Ghassemzadeh</a>.
+          If I want to name a course which I understood what is Engineering (and also Biosystem), that it.
             
           Highlighted courses which I'd like to share:
             - Computer Programming (C programming language)
             - Mechanical Engineering Design
-            - Measuring and Control tools
             - Maintenance Engineering
+            - Measuring and Control tools
+                - Arduino
+                - Measurment tools
+                - Electrical circuits
 
 experiences:
     title: Experiences
