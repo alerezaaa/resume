@@ -66,18 +66,6 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Biosystems Engineering
-        university: University of Tehran
-        time: 2020 - Present
-        details: |
-          Consist of 5 semesters (3 lecture based + 2 research based).
-          The first 3 semesters holded during coronavirus lock-down, so I didnt have much luck to contact the professors.
-          
-          Some of noteworthy lectures are: 
-            - Artificial Intelligence (Machine Learning)
-            - Limit Element Method
-            - Automatic Control Systems
-      
       - degree: BSc in Biosystems Engineering
         university: University of Tabriz
         time: 2016 - 2020
@@ -109,21 +97,6 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Researcher Student
-        time: 2021 - Present
-        company: University of Tehran
-        details: |
-          Researching on Machine Learning models to refine Reconstructed ECT images. (ECT: Electrical Capacitance Tomography)
-          My master thesis recommended by supervisor, Dr. Hossein Mousazadeh.
-          Based on request from Port &amp; Maritine Orginization of Iran.
-          Main skills involved is:
-            - Machine Learning
-            - Image Processing
-            - Programming skills
-                - Python
-                - C# (to be able to read written codes)
-            - Mathematics (Understanding ETC reconstruction algorithms aspects)
-
       - role: Assistant Producer
         time: 2018 - 2021
         company: University of Tabriz

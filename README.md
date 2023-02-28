@@ -1,1 +1,1 @@
-This is a Template for master degree
+This is a template for Master Degree
