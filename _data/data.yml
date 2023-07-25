@@ -187,10 +187,16 @@ skills:
 
     toolset:
       - name: Python
-        level: 50%
+        level: 60%
 
-      - name: Bash (linux)
+      - name: Machine Learning
         level: 50%
+      
+      - name: Linux
+        level: 50%
+      
+      - name: Bash Scripting
+        level: 40%
       
       - name: JavaScript
         level: 5%
