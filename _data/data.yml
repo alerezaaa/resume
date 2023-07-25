@@ -193,10 +193,13 @@ skills:
         level: 50%
       
       - name: Linux
-        level: 50%
+        level: 70%
       
       - name: Bash Scripting
         level: 40%
+      
+      - name: Git
+        level: 20%
       
       - name: JavaScript
         level: 5%
