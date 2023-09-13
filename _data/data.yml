@@ -218,36 +218,23 @@ publications:
         authors: Andrew Ng
         conference: Coursera (Stanford)
 
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+certifications:
+      title: Certifications
+      list:
+        - name: Machine Learning
+          start: 2022
+          end: 2022
+          organization: Stanford
+          credentialid: BEYRHUN8XPLX
+          credentialurl: https://www.coursera.org/account/accomplishments/certificate/BEYRHUN8XPLX
+          credentialname: Coursera
+          details: |
+            Machine learning course taught by Prof. Andrew Ng, Associate professor
+            at Stanford University.
 
+            I believe learning basics is the most important point of acquiring knowledge.
+            I thank God for having this mentality I have about learning and growing knowledge.
 
-# certifications:
-#       title: Certifications
-#       list:
-#         - name: CV Builder
-#           start: 2020
-#           end: 2021
-#           organization: Microsoft
-#           credentialid: 111-222
-#           credentialurl: www.google.com
-#           credentialname: Google
-#           details: |
-#             Details about cert. Lorem ipsum dolor sit amet, consectetur
-#             adipiscing elit.
-#             Nullam eget orci purus. Nullam ultrices neque nibh.
-#             Aenean fermentum, felis vulputate suscipit accumsan,
-#             sem enim bibendum augue, sed convallis arcu lacus at dui.
-#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#             Praesent venenatis erat non augue suscipit consectetur.
-
-#             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-#             fringilla vel. Ut euismod, sem sed vulputate venenatis,
-#             justo diam viverra velit, sed rhoncus leo leo eu justo.
-#             Suspendisse placerat risus ante, sed porta nisi blandit at.
 #         - name: Git learning
 #           start: 2019
 #           end:
