@@ -143,6 +143,27 @@ experiences:
                 - Python
                 - Image Processing fundementals
 
+
+
+certifications:
+      title: Certifications
+      list:
+        - name: Machine Learning
+          start: 2022
+          end: 2022
+          organization: Stanford
+          credentialid: BEYRHUN8XPLX
+          credentialurl: www.coursera.org/account/accomplishments/certificate/BEYRHUN8XPLX
+          credentialname: Coursera
+          details: |
+            Machine learning course taught by Prof. Andrew Ng, Associate professor
+            at Stanford University.
+
+            I believe learning basics is the most important point of acquiring knowledge.
+            I thank God for having this mentality I have about learning and growing knowledge.
+
+
+
 projects:
     title: Projects
     intro: >
@@ -181,23 +202,6 @@ projects:
             Samira Komeili, Niloufar Rahimi.
             Course: Mechanical Enginnering Design
 
-
-certifications:
-      title: Certifications
-      list:
-        - name: Machine Learning
-          start: 2022
-          end: 2022
-          organization: Stanford
-          credentialid: BEYRHUN8XPLX
-          credentialurl: www.coursera.org/account/accomplishments/certificate/BEYRHUN8XPLX
-          credentialname: Coursera
-          details: |
-            Machine learning course taught by Prof. Andrew Ng, Associate professor
-            at Stanford University.
-
-            I believe learning basics is the most important point of acquiring knowledge.
-            I thank God for having this mentality I have about learning and growing knowledge.
 
 skills:
     title: Skills &amp; Proficiency
