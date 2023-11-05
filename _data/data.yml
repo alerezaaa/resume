@@ -70,9 +70,9 @@ education:
     info:
       - degree: MSc in Biosystems Engineering
         university: University of Tehran
-        time: 2020 - Present
+        time: 2020 - 2023
         details: |
-          Consist of 5 semesters (3 lecture based + 2 research based).
+          Consisted of 5 semesters (3 lecture based + 2 research based).
           The first 3 semesters holded during coronavirus lock-down, so I didnt have much luck to contact the professors.
           
           Some of noteworthy lectures are: 
@@ -93,11 +93,11 @@ education:
           After several month, my co-learners decided to exit and I couldnt continue alone.
           
           Shortly, I start working with <a href='http://infoag.ir/en/'>Precision Agriculture group</a>
-          which is very nice. (details in experience section below)
+          which I'm proud of it. (details in experience section below)
           
           A great course that I had was Maintenance Engineering, taught by
           <a href='https://www.researchgate.net/profile/Hamid-Ghassemzadeh'>Prof. Hamid Reza Ghassemzadeh</a>.
-          If I want to name a course which I understood what is Engineering (and also Biosystems), that's it.
+          If I want to name a course which I understood what is engineering (and also Biosystems), that's it.
             
           Highlighted courses which I'd like to share:
             - Computer Programming (C programming language)
@@ -112,7 +112,7 @@ experiences:
     title: Experiences
     info:
       - role: Researcher Student
-        time: 2021 - Present
+        time: 2021 - 2023
         company: University of Tehran
         details: |
           Researching on Machine Learning models to refine Reconstructed ECT images. (ECT: Electrical Capacitance Tomography)
