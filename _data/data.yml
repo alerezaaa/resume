@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Alireza Dehghanzadeh
-    tagline: Selfstudying Cybersecurity and Machine Learning
+    tagline: M.Sc. graduated and Cybersecurity enthuasiast
     avatar: Profile_HDR.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,14 +17,14 @@ sidebar:
     #phone: 012 345 6789
     timezone: Asia/Tehran
     citizenship: 
-    website: alerezaa.ir #do not add http://
+    website: alirezad.ir #do not add http://
     linkedin: dehghanzadeh
     #xing: alandoe
     github: alerezaaa
     telegram: iAlirezaD # add your nickname without '@' sign
     gitlab: 
     bitbucket:
-    twitter: '@alerezaa_'
+    twitter: # '@alerezaa_'
     stack-overflow: 16308776/alireza # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -60,8 +60,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hi, My name is Alireza Dehghanzadeh. I'm a graduated student from University of Tabriz in field of Biosystem Engineering (section of Agricultural Enginnering).
-      I like whatever I chose! My bachelor degree, my hobby (Cybersecurity), my life-style and so on.
+      Hi, My name is Alireza Dehghanzadeh. I'm a graduated M.Sc. student from University of Tehran in field of Biosystem Engineering.
+      I like whatever I chose! My bachelor degree, my hobby (Cybersecurity), my life-style and so on. I'm proud of working with greatest agricutural group
+      at University of Tabriz during my bachelor degree. I have experience in Linux, Git, Cybersecurity, coding in Python and Bash scripting, working with Docker,
+      JavaScript and NodeJS.
       
       Working on cybersecurity, in particular Web application security, as a hobby.
 
@@ -73,7 +75,7 @@ education:
         time: 2020 - 2023
         details: |
           Consisted of 5 semesters (3 lecture based + 2 research based).
-          The first 3 semesters holded during coronavirus lock-down, so I didnt have much luck to contact the professors.
+          The first 3 semesters holded during coronavirus lock-down.
           
           Some of noteworthy lectures are: 
             - Artificial Intelligence (Machine Learning)
@@ -84,15 +86,12 @@ education:
         university: University of Tabriz
         time: 2016 - 2020
         details: |
-          First, I started to learn fundementals under supervising of
+          First, I had started to learn fundementals of Electric Circuts under supervising of
           <a href='https://www.researchgate.net/profile/Hossein-Behfar'>Dr. Hossein Behfar</a>
-          during <i>Measuring and Control tools</i> course (semester 5th).
-          <a href='https://www.researchgate.net/profile/Hossein-Behfar'>Dr. Behfar</a>
-          taught electronics fundementals (theoretical and practical in lab) and
-          encouraged us to learn constantly.
-          After several month, my co-learners decided to exit and I couldnt continue alone.
+          during <i>Measuring and Control Instrumentals</i> course (semester 5th).
+          After several month, due to exiting of my co-workers, I decided to involve to another group.
           
-          Shortly, I start working with <a href='http://infoag.ir/en/'>Precision Agriculture group</a>
+          Shortly, I started working with <a href='http://infoag.ir/en/'>Precision Agriculture group</a>
           which I'm proud of it. (details in experience section below)
           
           A great course that I had was Maintenance Engineering, taught by
@@ -134,6 +133,8 @@ experiences:
           Under supervising of <a href='https://www.researchgate.net/profile/Hossein-Navid'>Dr Hossein Navid</a>
           and advise of <a href='https://www.linkedin.com/in/hadi-karimi-77865b87/'>Dr Hadi Karimi</a>.
           This connection won't be broken.
+
+          I worked on 2 project during several month before Coronavirus (second project continued during coronavirus remotely):
             - Remote Controller for Silage Block Cutting Machine Remote
                 - Arduino Programming
                 - Electrical circuits
@@ -160,11 +161,10 @@ certifications:
             at Stanford University.
 
             I believe learning basics is the most important point of acquiring knowledge.
-            I thank God for having this mentality I have about learning and growing knowledge.
             This course tought me perfect ML basics alongside whatever I learnt from AI course
             by <a href='https://www.linkedin.com/in/mahmoud-omid-4057b015a/'>Dr. Mahmoud Omid</a> in Univesity of Tehran.
             There is a <a href='https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU'>free Standford course in Youtube</a> as well
-            which is close to this course but Youtube course is a little harder and goes deeper in details (Mathematics).
+            which is close to Coursera course but Youtube course is a little harder and goes deeper in Mathematical details.
 
 
 
@@ -178,7 +178,7 @@ projects:
     assignments:
       - title: Pipe cuttig decision system based in image processing using Raspberry Pi
         link: "#hook"
-        tagline: "Create an Image Processing service based on Rasberry Pi 4 as a project for a small manufactral Designing group."
+        tagline: "Create an Image Processing service on top of Rasberry Pi 4 as a project for a manufactral Designing group."
 
       - title: Remote Controller for Silage Block Cutting Machine Remote
         link: "#"
@@ -212,13 +212,13 @@ skills:
 
     toolset:
       - name: Python
-        level: 60%
+        level: 50%
 
       - name: Machine Learning
-        level: 50%
+        level: 40%
       
       - name: Linux
-        level: 70%
+        level: 60%
       
       - name: Bash (Bash Scripting)
         level: 40%
