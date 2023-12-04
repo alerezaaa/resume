@@ -114,9 +114,9 @@ experiences:
         time: 2021 - 2023
         company: University of Tehran
         details: |
-          Researching on Machine Learning models to refine Reconstructed ECT images. (ECT: Electrical Capacitance Tomography)
+          Researching on Machine Learning models to refine Reconstructed ECT images. (Electrical Capacitance Tomography)
           My master thesis recommended by supervisor, Dr. Hossein Mousazadeh.
-          Based on request from Port &amp; Maritine Orginization of Iran.
+          Based on project by <a herf='https://www.pmo.ir/en/home'>Port &amp; Maritine Orginization of Iran</a>.
           Main skills involved is:
             - Machine Learning
             - Image Processing
@@ -127,9 +127,8 @@ experiences:
             
       - role: Assistant Producer
         time: 2019 - 2021
-        company: University of Tabriz (<a href='http://infoag.ir/en/'>Precision Agriculture group</a> at Biosystem Engineering department)
+        company: University of Tabriz (<a href='http://infoag.ir/en/'>Precision Agriculture group</a> at Biosystems Engineering department)
         details: |
-          Working as a part of <a href='http://infoag.ir/en/'>Precision Agriculture group</a> at Biosystem Engineering department in University of Tabriz.
           Under supervising of <a href='https://www.researchgate.net/profile/Hossein-Navid'>Dr Hossein Navid</a>
           and advise of <a href='https://www.linkedin.com/in/hadi-karimi-77865b87/'>Dr Hadi Karimi</a>.
           This connection won't be broken.
@@ -140,9 +139,9 @@ experiences:
                 - Electrical circuits
                 - Control systems
             - Pipe cuttig decision system based in image processing using Raspberry Pi
-                - Linux fundementals (Raspberry Pi)
+                - Linux (Raspbian is a Debian-based OS)
                 - Python
-                - Image Processing fundementals
+                - Image Processing
 
 
 
