@@ -116,7 +116,7 @@ experiences:
         details: |
           Researching on Machine Learning models to refine Reconstructed ECT images. (Electrical Capacitance Tomography)
           My master thesis recommended by supervisor, Dr. Hossein Mousazadeh.
-          Based on project by <a herf='https://www.pmo.ir/en/home'>Port &amp; Maritine Orginization of Iran</a>.
+          Based on project by <a href='https://www.pmo.ir/en/home'>Port &amp; Maritine Orginization of Iran</a>.
           Main skills involved is:
             - Machine Learning
             - Image Processing
@@ -131,8 +131,6 @@ experiences:
         details: |
           Under supervising of <a href='https://www.researchgate.net/profile/Hossein-Navid'>Dr Hossein Navid</a>
           and advise of <a href='https://www.linkedin.com/in/hadi-karimi-77865b87/'>Dr Hadi Karimi</a>.
-          This connection won't be broken.
-
           I worked on 2 project during several month before Coronavirus (second project continued during coronavirus remotely):
             - Remote Controller for Silage Block Cutting Machine Remote
                 - Arduino Programming
