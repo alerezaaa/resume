@@ -150,10 +150,13 @@ certifications:
           organization: Harvard University
           credentialid: a72d88d7-d288-4fb9-b7c0-e017542b0be1
           credentialurl: cs50.harvard.edu/certificates/a72d88d7-d288-4fb9-b7c0-e017542b0be1
-          credentialname: Harvard Certification
+          credentialname: Harvard certification
           details: |
             You need to understand computers to work with them. This course extend my knowledge about computer a bit and
-            it did not take me a long time and was a good start point to continue taking CS50 bundle.
+            it did not take me a long time.
+            It was a good start point to continue taking CS50 bundle.
+            
+
 
         
         - name: Machine Learning
@@ -162,7 +165,7 @@ certifications:
           organization: Stanford
           credentialid: BEYRHUN8XPLX
           credentialurl: www.coursera.org/account/accomplishments/certificate/BEYRHUN8XPLX
-          credentialname: Coursera
+          credentialname: Coursera certification
           details: |
             Machine learning course taught by Prof. Andrew Ng, Associate professor
             at Stanford University.
@@ -234,10 +237,10 @@ skills:
 
     toolset:
       - name: Python
-        level: 50%
+        level: 65%
 
       - name: Machine Learning
-        level: 40%
+        level: 50%
       
       - name: Linux
         level: 60%
@@ -252,7 +255,7 @@ skills:
         level: 5%
 
       - name: Wordpress
-        level: 50%
+        level: 60%
 
       - name: Web Application Security
         level: 4%
