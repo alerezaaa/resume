@@ -64,23 +64,19 @@ education:
     title: Education
     info:
       - degree: MSc in Food Science and Engineering
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Food Science and Engineering
-        university: Bristol University
+        university: University of Tehran
         time: 2022 - 2024
         details: |
-          Distingushed student
-            - Bullet point
-            - Bullet point
+          Working on a very interesting subject as my master thesis.
+            - Exceptional talents as Master entrance
+
+
+      - degree: BSc in Food Science and Engineering
+        university: University of Tehran
+        time: 2018 - 2022
+        details: |
+          Distingushed student.
+            - Top student
 
 # experiences:
 #     title: Experiences
@@ -236,7 +232,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Piano
+      - name: Piano 🎹
         level: 87%
 
       # - name: Javascript & jQuery
