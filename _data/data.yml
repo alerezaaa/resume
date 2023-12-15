@@ -144,6 +144,18 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: CS50s Understanding Technology
+          start: 2023
+          end: 2023
+          organization: Harvard University
+          credentialid: a72d88d7-d288-4fb9-b7c0-e017542b0be1
+          credentialurl: cs50.harvard.edu/certificates/a72d88d7-d288-4fb9-b7c0-e017542b0be1
+          credentialname: Harvard Certification
+          details: |
+            You need to understand computers to work with them. This course extend my knowledge about computer a bit and
+            it did not take me a long time and was a good start point to continue taking CS50 bundle.
+
+        
         - name: Machine Learning
           start: 2022
           end: 2022
@@ -238,6 +250,9 @@ skills:
       
       - name: JavaScript
         level: 5%
+
+      - name: Wordpress
+        level: 50%
 
       - name: Web Application Security
         level: 4%
