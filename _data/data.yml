@@ -157,7 +157,20 @@ certifications:
             It was a good start point to continue taking CS50 bundle.
             
 
+        - name: Machine learning in Python with scikit-learn
+          start: 2023
+          end: 2023
+          organization: France Université Numérique
+          credentialid: 454d416de1e0ee727dd97fbd81fa89362c3d5230
+          credentialurl: openbadgefactory.com/v1/assertion/454d416de1e0ee727dd97fbd81fa89362c3d5230.html
+          credentialname: Open badge for the Inria
+          details: |
+            Build predictive models with scikit-learn and gain a practical understanding of 
+            the strengths and limitations of machine learning! 
+            (<a target="_blank" href='https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/'>link to course)</a>
 
+            After learning basics of Machine learning, now its time to hands-on experience and expand knowledge with practicing. 
+            The goal of this course is to teach machine learning with scikit-learn to beginners, even without a strong technical background.
 
         
         - name: Machine Learning
