@@ -163,7 +163,7 @@ certifications:
           organization: France Université Numérique
           credentialid: 454d416de1e0ee727dd97fbd81fa89362c3d5230
           credentialurl: openbadgefactory.com/v1/assertion/454d416de1e0ee727dd97fbd81fa89362c3d5230.html
-          credentialname: Open badge for the Inria
+          credentialname: Inria
           details: |
             Build predictive models with scikit-learn and gain a practical understanding of 
             the strengths and limitations of machine learning! 
