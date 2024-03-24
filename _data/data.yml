@@ -144,7 +144,7 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CS50s Understanding Technology
+        - name: CS50 Understanding Technology
           start: 2023
           end: 2023
           organization: Harvard University
