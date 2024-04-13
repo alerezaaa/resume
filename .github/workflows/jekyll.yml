@@ -61,6 +61,13 @@ jobs:
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
 
+      - name: Deploy on a branch
+        if: github.event_name != 'pull_request'
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: _site
+          branch: production
+
   # Deployment job
   deploy:
     environment:
