@@ -1,0 +1,19 @@
+{
+  "hosting": {
+    "public": "/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "redirects": [ {
+      "source": "http://",
+      "destination": "https://",
+      "type": 301
+    } ],
+    "github": {
+        "repo": "alerezaaa/resume",
+        "branch": "main" // or specify your desired branch
+    }
+  }
+}
