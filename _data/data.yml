@@ -17,19 +17,24 @@ sidebar:
     #phone: 012 345 6789
     timezone: Asia/Tehran
     citizenship: 
-    website: alirezad.ir #do not add http://
+    website: https://alirezad.ir #do not add http://
     linkedin: dehghanzadeh
     #xing: alandoe
     github: alerezaaa
     telegram: iAlirezaD # add your nickname without '@' sign
     gitlab: 
     bitbucket:
+    bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
     twitter: # '@alerezaa_'
     stack-overflow: # 16308776/alireza # Number/Username, e.g. 123456/alandoe
     codewars: alerezaaa
     goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: # http://www.africau.edu/images/default/sample.pdf
+    mastodon: # Please include your full Mastodon link here.
+    hackerrank: # Please provide your HackerRank username.
+    leetcode: # Please provide your LeetCode username.
+    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
+    
     languages:
       title: Languages
       info:
@@ -42,19 +47,29 @@ sidebar:
         - idiom: Azerbaijani
           level: Limited
 
+
     interests:
       title: Interests
       info:
         - item: Linux
           link:
 
-        - item: Coding (Python, Go, Rust)
+        - item: Code world
           link:
 
         - item: Machine Learning
           link:
 
         - item: Cyber security
+          link:
+
+        - item: Nature
+          link:
+
+        - item: Cooking
+          link:
+
+        - item: Exploring the world
           link:
 
 career-profile:
@@ -246,6 +261,67 @@ projects:
             Course: Mechanical Enginnering Design
 
 
+oss:
+  title: OSS Contributions
+  intro: >
+    Some of my contribution to Open Source projects.
+  contributions:
+  - title: al-folio
+    link: "https://github.com/alshedivat/al-folio"
+    tagline: "A beautiful, simple, clean, and responsive Jekyll theme for academics. It's my website theme."
+
+#   - title: Atom
+#     link: "#"
+#     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#   - title: Delta
+#     link: "#"
+#     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+
+
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#   - title: The Art of Computer Programming
+#     link: "#"
+#     authors: Donald E. Knuth
+#     conference: Addison-Wesley, 1968
+
+#   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#     link: "#"
+#     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#   - title: A syntax directed compiler for Algol 60
+#     link: "#"
+#     authors: Edgar T. Irons
+#     conference: "Comm. ACM 4 (1961), 51–55"
+
+
+# recommendations:
+#   title: Recommendations
+#   list:
+#   - person: Yareli Perez
+#     email: perezyareli@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       Alan Doe is a super employee!
+#   - person: Lara Henderson
+#     email: larah@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       I would like to work with Alan Doe again!
+
+#       He is a great employee!
+
+
 skills:
     title: Skills &amp; Proficiency
 
@@ -301,23 +377,6 @@ skills:
 #             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
 #             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
 #             Praesent venenatis erat non augue suscipit consectetur.
-
-
-# oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
 
 
 footer: >
