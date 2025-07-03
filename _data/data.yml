@@ -21,10 +21,10 @@ sidebar:
     linkedin: dehghanzadeh
     #xing: alandoe
     github: alerezaaa
-    telegram: iAlirezaD # add your nickname without '@' sign
+    telegram: # add your nickname without '@' sign
     gitlab: 
     bitbucket:
-    bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+    # bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
     twitter: # '@alerezaa_'
     stack-overflow: # 16308776/alireza # Number/Username, e.g. 123456/alandoe
     codewars: alerezaaa
