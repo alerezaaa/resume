@@ -323,8 +323,7 @@ oss:
 
 
 skills:
-    title: Skills &amp; Proficiency
-
+  title: Skills &amp; Proficiency
     toolset:
       - name: Python
         level: 65%
