@@ -219,6 +219,13 @@ p {
     color: $text-grey;
   }
 
+  .company a,
+  .university a,
+  .cert-org a {
+    color: darken($text-grey, 20%); /* or the color you want */
+    text-decoration: none; /* optional: remove underlines */
+}
+
   .project-title {
     font-size: 16px;
     font-weight: 400;

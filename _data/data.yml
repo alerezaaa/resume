@@ -3,284 +3,380 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+    position: right # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
-  # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    # Profile information
+    name: Alireza Dehghanzadeh
+    tagline: MSc. Graduate and Cyber-security Enthusiast
+    avatar: Profile_HDR.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-  # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    # Sidebar links
+    email: adehghanzadeh@ut.ac.ir
+    #phone: 012 345 6789
+    timezone: Asia/Tehran
+    citizenship: 
+    website: https://alirezad.ir #do not add http://
+    linkedin: dehghanzadeh
+    #xing: alandoe
+    github: alerezaaa
+    telegram: iAlirezaD # add your nickname without '@' sign
+    gitlab: 
+    bitbucket:
+    bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+    twitter: # '@alerezaa_'
+    stack-overflow: # 16308776/alireza # Number/Username, e.g. 123456/alandoe
+    codewars: alerezaaa
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    mastodon: # Please include your full Mastodon link here.
+    hackerrank: # Please provide your HackerRank username.
+    leetcode: # Please provide your LeetCode username.
+    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-  languages:
-    title: Languages
-    info:
-    - idiom: English
-      level: Native
+    
+    languages:
+      title: Languages
+      info:
+        - idiom: Persian
+          level: Native
 
-    - idiom: French
-      level: Professional
+        - idiom: English
+          level: Proficiency
 
-    - idiom: Spanish
-      level: Professional
-
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
+        - idiom: Azerbaijani
+          level: Limited
 
 
-    - item: Snowboarding
-      link:
+    interests:
+      title: Interests
+      info:
+        - item: Linux
+          link:
 
+        - item: Code world
+          link:
 
-    - item: Cooking
-      link:
+        - item: Machine Learning
+          link:
 
+        - item: Cyber security
+          link:
+
+        - item: Nature
+          link:
+
+        - item: Cooking
+          link:
+
+        - item: Exploring the world
+          link:
 
 career-profile:
-  title: Career Profile
-  summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    title: Career Profile
+    summary: |
+      Hi, My name is Alireza Dehghanzadeh. I'm a graduated M.Sc. student from University of Tehran in field of Biosystem Engineering.
+      I like whatever I chose! My bachelor degree, my hobby (Cybersecurity), my life-style and so on. I'm proud of working with greatest agricutural group
+      at University of Tabriz during my bachelor degree. I have experience in Linux, Git, Cybersecurity, coding in Python and Bash scripting, working with Docker,
+      JavaScript and NodeJS.
+      
+      Working on cybersecurity, in particular Web application security, as a hobby.
+
 education:
-  title: Education
-  info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    title: Education
+    info:
+      - degree: MSc in Biosystems Engineering
+        university: University of Tehran
+        time: 2020 - 2023
+        details: |
+          Consisted of 5 semesters (3 lecture based + 2 research based).
+          The first 3 semesters holded during coronavirus lock-down.
+          
+          Some of noteworthy lectures are: 
+            - Artificial Intelligence (Machine Learning)
+            - Limit Element Method
+            - Automatic Control Systems
+      
+      - degree: BSc in Biosystems Engineering
+        university: University of Tabriz
+        time: 2016 - 2020
+        details: |
+          First, I had started learning fundementals of Electric Circuts under supervising of
+          <a target="_blank" href='https://www.researchgate.net/profile/Hossein-Behfar'>Dr. Hossein Behfar</a>.
+          After several month, due to exiting of my co-workers, I decided to involve to another group.
+          Shortly, I started working with <a target="_blank" href='http://infoag.ir/en/'>Precision Agriculture group</a>
+          which I'm proud of it. (details in experience section below)
+          
+          A great course that I had was Maintenance Engineering, taught by
+          <a target="_blank" href='https://www.researchgate.net/profile/Hamid-Ghassemzadeh'>Prof. Hamid Reza Ghassemzadeh</a>.
+          If I want to name a course which I understood what is engineering (and also Biosystems), that's it.
+            
+          Highlighted courses which I'd like to share:
+            - Computer Programming (C programming language)
+            - Mechanical Engineering Design
+            - Maintenance Engineering
+            - Measuring and Control tools
+                - Arduino
+                - Measurment tools
+                - Electrical circuits
 
 experiences:
-  title: Experiences
-  info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    title: Experiences
+    info:
+      - role: Researcher Student
+        time: 2021 - 2023
+        company: University of Tehran
+        details: |
+          Researching on Machine Learning models to refine Reconstructed ECT images. (Electrical Capacitance Tomography)
+          My master thesis recommended by supervisor, Dr. Hossein Mousazadeh based on my experience.
+          Based on project by <a target="_blank" href='https://www.pmo.ir/en/home'>Port &amp; Maritine Orginization of Iran</a>.
+          Main skills involved is:
+            - Machine Learning
+            - Image Processing
+            - Programming skills
+                - Python
+                - C# (to be able to read written codes)
+            - Mathematics (Understanding ETC reconstruction algorithms aspects)
+            
+      - role: Assistant Producer
+        time: 2019 - 2021
+        company: University of Tabriz (<a target="_blank" href='http://infoag.ir/en/'>Precision Agriculture group</a> at Biosystems Engineering department)
+        details: |
+          Under supervising of <a target="_blank" href='https://www.researchgate.net/profile/Hossein-Navid'>Dr Hossein Navid</a>
+          and advise of <a target="_blank" href='https://www.linkedin.com/in/hadi-karimi-77865b87/'>Dr Hadi Karimi</a>.
+          I worked on 2 project during several month before Coronavirus (second project continued during coronavirus remotely):
+            - Remote Controller for Silage Block Cutting Machine Remote
+                - Arduino Programming
+                - Electrical circuits
+                - Control systems
+            - Pipe cuttig decision system based in image processing using Raspberry Pi
+                - Linux (Raspbian is a Debian-based OS)
+                - Python
+                - Image Processing
+
+
 
 certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      title: Certifications
+      list:
+        - name: CS50 Understanding Technology
+          start: 2023
+          end: 2023
+          organization: Harvard University
+          credentialid: a72d88d7-d288-4fb9-b7c0-e017542b0be1
+          credentialurl: cs50.harvard.edu/certificates/a72d88d7-d288-4fb9-b7c0-e017542b0be1
+          credentialname: Harvard certification
+          details: |
+            You need to understand computers to work with them. This course extend my knowledge about computer a bit and
+            it did not take me a long time.
+            It was a good start point to continue taking CS50 bundle.
+            
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+        - name: Machine learning in Python with scikit-learn
+          start: 2023
+          end: 2023
+          organization: France Université Numérique
+          credentialid: 454d416de1e0ee727dd97fbd81fa89362c3d5230
+          credentialurl: openbadgefactory.com/v1/assertion/454d416de1e0ee727dd97fbd81fa89362c3d5230.html
+          credentialname: Inria
+          details: |
+            Build predictive models with scikit-learn and gain a practical understanding of 
+            the strengths and limitations of machine learning! 
+            (<a target="_blank" href='https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/'>link to course)</a>
+
+            After learning basics of Machine learning, now its time to hands-on experience and expand knowledge with practicing. 
+            The goal of this course is to teach machine learning with scikit-learn to beginners, even without a strong technical background.
+
+        
+        - name: Machine Learning
+          start: 2022
+          end: 2022
+          organization: Stanford
+          credentialid: BEYRHUN8XPLX
+          credentialurl: www.coursera.org/account/accomplishments/certificate/BEYRHUN8XPLX
+          credentialname: Coursera certification
+          details: |
+            Machine learning course taught by Prof. Andrew Ng, Associate professor
+            at Stanford University.
+
+            I believe learning basics is the most important point of acquiring knowledge.
+            This course tought me perfect ML basics alongside whatever I learnt from AI course
+            by <a target="_blank" href='https://www.linkedin.com/in/mahmoud-omid-4057b015a/'>Dr. Mahmoud Omid</a> in Univesity of Tehran.
+            (There is a <a target="_blank" href='https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU'>free Standford course in Youtube</a>
+            which is close to Coursera course but Youtube's is a little harder and goes deeper in Mathematical details.)
+
+
 
 projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Projects
+    intro: >
+      <b>Team projects lead to acquiring new knowledge while
+      working on real projects lead to acquiring deeper knowledge.</b>
+      It's not all about knowledge, it's about personality, mentality and so on.
+      
+    assignments:
+      - title: PVC Duct Cutting Machine Computer Vision System
+        link: "#hook"
+        tagline: |
+            This project used computer vision technology to identify clipping points within PVC ducts,
+            focusing on detecting their flat areas for accurate cuts. Adaptable to ambient noise,
+            the system ensured consistent performance,
+            while its lightweight design enabled seamless integration with the machine's high-speed operations.
+            Utilizing a Raspberry Pi, this compact yet powerful computing platform was used to drive the entire system.
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Remote Controller for a Silage Block Cutting Machine
+        link: "#"
+        tagline: |
+            Due to operator injuries, while cutting stacked up silage blocks,
+            a remote controlling system was developed and configured
+            so that the operators be able to control the machine using wireless technology.
+            The device was able to fully control the machine. The developed device controlled the system
+            by manipulating the pneumatic and hydraulic valves of the machine using a TCP/UDP local network with an android application.
+            Which in fact, the machine performs with more precision and offers product and safety measures.
+            Android application developed by <a target="_blank" href='https://www.linkedin.com/in/ali-khalili-790b10146/'>Eng. Ali Khalili</a>
+            Based on React-native.
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Basil Harvester
+        link: "https://alirezad.ir/projects/basil_harvester/"
+        tagline: |
+            (Team project) Design a machine to harvest basils as a successor to Scissor Jack
+            since we got the best resualts and distinguished among other groups in related class. 
+            There are a large number of small agriculture farms around mid-to-big cities in Iran which
+            they plant different basils alongside eachother in several section in their farms.
+            This project aimed this businesses to help them increasing outcome and decreasing wastes.
+            This machine was design by intelligence functionality in mind and using previous works and experiences.
+            Team members: <a target="_blank" href="https://www.linkedin.com/in/anis-azarmikhah-65a131203/">Anis Azarmikhah</a>,
+            <a target="_blank" href="https://www.linkedin.com/in/hadi-hashemi-farahmand-2300981b5/">Hadi Farahmand</a>,
+            Samira Komeili, Niloufar Rahimi.
+            Course: Design of Harvesting Machine
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Scissor Jack
+        link: "https://alirezad.ir/projects/scissor_jack/"
+        tagline: |
+            (Team project) Apply Mechanical Engineering Design knowledge to Design a scissor jack as a course project.
+            Design was done using Solidworks and the analysis which was additional, done through Ansys Mechanical.
+            Team members: <a target="_blank" href="https://www.linkedin.com/in/anis-azarmikhah-65a131203/">Anis Azarmikhah</a>,
+            <a target="_blank" href="https://www.linkedin.com/in/hadi-hashemi-farahmand-2300981b5/">Hadi Farahmand</a>,
+            Samira Komeili, Niloufar Rahimi.
+            Course: Mechanical Enginnering Design
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
   title: OSS Contributions
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Some of my contribution to Open Source projects.
   contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: al-folio
+    link: "https://github.com/alshedivat/al-folio"
+    tagline: "A beautiful, simple, clean, and responsive Jekyll theme for academics. It's my website theme."
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#   - title: Atom
+#     link: "#"
+#     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#   - title: Delta
+#     link: "#"
+#     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#   - title: The Art of Computer Programming
+#     link: "#"
+#     authors: Donald E. Knuth
+#     conference: Addison-Wesley, 1968
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+#   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#     link: "#"
+#     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      He is a great employee!
+#   - title: A syntax directed compiler for Algol 60
+#     link: "#"
+#     authors: Edgar T. Irons
+#     conference: "Comm. ACM 4 (1961), 51–55"
+
+
+# recommendations:
+#   title: Recommendations
+#   list:
+#   - person: Yareli Perez
+#     email: perezyareli@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       Alan Doe is a super employee!
+#   - person: Lara Henderson
+#     email: larah@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       I would like to work with Alan Doe again!
+
+#       He is a great employee!
+
 
 skills:
   title: Skills &amp; Proficiency
+    toolset:
+      - name: Python
+        level: 65%
 
-  toolset:
-  - name: Python & Django
-    level: 98%
+      - name: Machine Learning
+        level: 50%
+      
+      - name: Linux
+        level: 60%
+      
+      - name: Bash (Bash Scripting)
+        level: 40%
+      
+      - name: Git
+        level: 20%
+      
+      - name: JavaScript
+        level: 5%
 
-  - name: Javascript & jQuery
-    level: 98%
+      - name: Wordpress
+        level: 60%
 
-  - name: Angular
-    level: 98%
+      - name: Web Application Security
+        level: 4%
 
-  - name: HTML5 & CSS
-    level: 95%
+# publications:
+#     title: Certifications
+#     intro: |
+#       There are tons of learning sources on the internet (even lots of repository on Github).
+#       Here is some of my acquired certifications:
+#     papers:
+#       - title: Machine Learning
+#         link: "https://www.coursera.org/account/accomplishments/certificate/BEYRHUN8XPLX"
+#         authors: Andrew Ng
+#         conference: Coursera (Stanford)
 
-  - name: Ruby on Rails
-    level: 85%
+#         - name: Git learning
+#           start: 2019
+#           end:
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.github.com
+#           credentialname: Github
+#           details: |
+#             Older certification. Lorem ipsum dolor sit amet, consectetur
+#             adipiscing elit.
+#             Nullam eget orci purus. Nullam ultrices neque nibh.
+#             Aenean fermentum, felis vulputate suscipit accumsan,
+#             sem enim bibendum augue, sed convallis arcu lacus at dui.
+#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#             Praesent venenatis erat non augue suscipit consectetur.
 
-  - name: Sketch & Photoshop
-    level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a target="_blank" href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> | Hosted by <a target="_blank" href="https://pages.cloudflare.com" target="_blank" rel="nofollow">Cloudflare Pages</a>
