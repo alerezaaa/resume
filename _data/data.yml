@@ -324,30 +324,31 @@ oss:
 
 skills:
   title: Skills &amp; Proficiency
-    toolset:
-      - name: Python
-        level: 65%
 
-      - name: Machine Learning
-        level: 50%
-      
-      - name: Linux
-        level: 60%
-      
-      - name: Bash (Bash Scripting)
-        level: 40%
-      
-      - name: Git
-        level: 20%
-      
-      - name: JavaScript
-        level: 5%
+  toolset:
+  - name: Python
+    level: 65%
 
-      - name: Wordpress
-        level: 60%
+  - name: Machine Learning
+    level: 50%
+  
+  - name: Linux
+    level: 60%
+  
+  - name: Bash (Bash Scripting)
+    level: 40%
+  
+  - name: Git
+    level: 20%
+  
+  - name: JavaScript
+    level: 5%
 
-      - name: Web Application Security
-        level: 4%
+  - name: Wordpress
+    level: 60%
+
+  - name: Web Application Security
+    level: 4%
 
 # publications:
 #     title: Certifications
