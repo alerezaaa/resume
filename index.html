@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<!--[if !IE]><!-->
+<html lang="en"> <!--<![endif]-->
 <head>
   <title>Alireza Dehghanzadeh</title>
 
@@ -16,10 +17,15 @@
   <link rel="shortcut icon" href="favicon.ico">
 
   <!-- Global CSS -->
-  <link rel="stylesheet" href="/assets/plugins/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/plugins/bootstrap/css/bootstrap.css">
 
   <!-- Plugins CSS -->
   <link rel="stylesheet" href="/assets/plugins/font-awesome/css/all.css">
+
+  <!-- html2pdf library -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"
+    integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
   <!-- Theme CSS -->
   <link id="theme-style" rel="stylesheet" href="/assets/css/main.css">
@@ -31,6 +37,14 @@
 </head>
 
 <body>
+  <button onclick="print()" class="print-button d-print-none">
+    <i class="fas fa-file-pdf"></i>Print
+  </button>
+
+  <button onclick="generatePDF()" class="pdf-button d-print-none" id="pdfButton">
+    <i class="fas fa-file-pdf"></i>PDF
+  </button>
+
   <div class="wrapper">
     
 <div class="sidebar-wrapper">
@@ -218,7 +232,7 @@
 
 
     <div class="main-wrapper">
-        
+      
 
 <section class="section summary-section">
 
@@ -836,10 +850,10 @@ Course: Mechanical Enginnering Design
 </footer><!--//footer-->
 
 
-<!-- Javascript -->
+  <!-- Javascript -->
 
 
+  <script src="/assets/js/pdf-generator.js"></script>
 </body>
 
 </html>
-
