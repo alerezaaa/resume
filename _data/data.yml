@@ -123,6 +123,17 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: IT Support & Systems Administrator (Library Services)
+        time: 2024 - 2026
+        company: University of Tehran
+        details: |
+          <i>Civilian National Service (Sarbazi Amrieh)</i>
+            - Managed and maintained library IT systems, workstations, and networked devices
+            - Administered and updated institutional websites
+            - Provided technical support and troubleshooting for students and staff
+            - Created instructional materials (videos, slides, documentation, print guides)
+            - Conducted user orientation and introductory IT sessions
+            
       - role: Researcher Student
         time: 2021 - 2023
         company: University of Tehran
