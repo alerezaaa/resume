@@ -148,18 +148,14 @@ experiences:
         time: 2019 - 2021
         company: University of Tabriz (<a target="_blank" href='http://infoag.ir/en/'>Precision Agriculture group</a> at Biosystems Engineering department)
         details: |
-          Under supervising of <a target="_blank" href='https://www.researchgate.net/profile/Hossein-Navid'>Dr Hossein Navid</a>
-          and advise of <a target="_blank" href='https://www.linkedin.com/in/hadi-karimi-77865b87/'>Dr Hadi Karimi</a>.
-          I worked on 2 project during several month before Coronavirus (second project continued during coronavirus remotely):
-            - Remote Controller for Silage Block Cutting Machine Remote
-                - Arduino Programming
-                - Electrical circuits
-                - Control systems
-            - Pipe cuttig decision system based in image processing using Raspberry Pi
-                - Linux (Raspbian is a Debian-based OS)
-                - Python
-                - Image Processing
-
+          During my Bachelor's degree, I assisted in the design and development of agricultural machinery and equipment, 
+          including remote controllers and decision systems based on image processing. 
+          Supervised by <a href="https://www.researchgate.net/profile/Hossein-Navid">Dr. Hossein Navid</a> <a href="https://www.linkedin.com/in/hossein-navid-0915822a6/"><i class="fab fa-linkedin"></i></a>. 
+          Advised by <a href="https://scholar.google.dk/citations?user=c0Ee4oIAAAAJ&hl=en">Dr. Hadi Karimi</a> <a href="https://www.linkedin.com/in/hadi-karimi-77865b87/"><i class="fab fa-linkedin"></i></a>.
+            - Design and build <i>a remote controller for silage block cutting machine remote</i>
+            - Design and build <i>a pipe cutting decision system based in image processing using Raspberry Pi</i>
+            - Expand my knowledge in the field of Linux/Unix operating systems and command line tools
+            - <b>Skills associated&#58;</b> Python, Raspberry Pi, Image Processing, Arduino, C programming, Electrical Circuit Design
 
 
 certifications:
