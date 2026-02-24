@@ -134,20 +134,15 @@ experiences:
             - Created instructional materials (videos, slides, documentation, print guides)
             - Conducted user orientation and introductory IT sessions
             
-      - role: Researcher Student
+      - role: Researcher Assistant
         time: 2021 - 2023
-        company: University of Tehran
+        company: Mechatronics Research Group, <a href="https://agri.ut.ac.ir/en/machinery">Agricultural Machinery Engineering Department</a>, <a href="https://ut.ac.ir/en">University of Tehran</a>
         details: |
-          Researching on Machine Learning models to refine Reconstructed ECT images. (Electrical Capacitance Tomography)
-          My master thesis recommended by supervisor, Dr. Hossein Mousazadeh based on my experience.
-          Based on project by <a target="_blank" href='https://www.pmo.ir/en/home'>Port &amp; Maritine Orginization of Iran</a>.
-          Main skills involved is:
-            - Machine Learning
-            - Image Processing
-            - Programming skills
-                - Python
-                - C# (to be able to read written codes)
-            - Mathematics (Understanding ETC reconstruction algorithms aspects)
+          Conducted research in the field of Machine Learning to refine reconstructed Electrical Capacitance Tomography images.
+              - Python, Pandas, NumPy
+              - Machine Learning
+              - Scikit-learn
+              - Get familiar with Tomography and their reconstruction methods
             
       - role: Assistant Producer
         time: 2019 - 2021
