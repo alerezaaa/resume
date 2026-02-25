@@ -139,10 +139,10 @@ experiences:
         company: <a href="https://ut.ac.ir/en"><b>University of Tehran</b></a>, Agricultural Machinery Engineering Department
         details: |
           Conducted research in the field of Machine Learning to refine reconstructed Electrical Capacitance Tomography images.
-            - Studied tomography reconstruction techniques to enhance ECT imaging performance.
-            - Developed and evaluated ML models for image refinement and noise reduction.
+            - Developed and evaluated Machine Learning models for image refinement and noise reduction.
             - Processed and analyzed ECT datasets using Python (Scikit-learn, Pandas, NumPy).
             - Compared multiple Machine Learning algorithms to assess their advantages, limitations, and compatibility with ECT reconstruction methods.
+            - Studied tomography reconstruction techniques to enhance ECT imaging performance.
             - Collaborated with academic supervisors and research team members on ML-based reconstruction pipeline development.
             
       - role: Undergraduate Research Assistant (Automation & Computer Vision)
