@@ -125,7 +125,7 @@ experiences:
     info:
       - role: IT Support & Systems Administrator (Library Services)
         time: 2024 - 2026
-        company: University of Tehran
+        company: <a href="https://ut.ac.ir/en"><b>University of Tehran</b></a>, Central Library of College of Agriculture and Natural Resources
         details: |
           <i>Civilian National Service (Sarbazi Amrieh)</i>
             - Managed and maintained library IT systems, workstations, and networked devices
@@ -136,7 +136,7 @@ experiences:
             
       - role: Researcher Assistant
         time: 2021 - 2023
-        company: Mechatronics Research Group, <a href="https://agri.ut.ac.ir/en/machinery">Agricultural Machinery Engineering Department</a>, <a href="https://ut.ac.ir/en">University of Tehran</a>
+        company: <a href="https://ut.ac.ir/en"><b>University of Tehran</b></a>, Agricultural Machinery Engineering Department
         details: |
           Conducted research in the field of Machine Learning to refine reconstructed Electrical Capacitance Tomography images.
             - Studied tomography reconstruction techniques to enhance ECT imaging performance.
@@ -147,7 +147,7 @@ experiences:
             
       - role: Undergraduate Research Assistant (Automation & Computer Vision)
         time: 2019 - 2021
-        company: <a href="https://www.linkedin.com/company/precision-agriculture-research-team/posts/?feedView=all">Precision Agriculture group</a>, Biosystems Engineering department, <a href="https://tabrizu.ac.ir/en">Tabriz University</a>
+        company: <a href="https://tabrizu.ac.ir/en"><b>Tabriz University</b></a>, <a href="https://www.linkedin.com/company/precision-agriculture-research-team/posts/?feedView=all">Precision Agriculture group</a> (Biosystems Engineering department)
         details: |
           During my Bachelor's degree, I assisted in the design and development of agricultural machinery and equipment, 
           including remote controllers and decision systems based on image processing.<br>
