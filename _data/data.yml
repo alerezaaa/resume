@@ -81,7 +81,7 @@ education:
         university: University of Tehran
         time: 2020/10 - 2023/09
         details: |
-          <b>Highlighted Courses&#58;</b> Artificial Intelligence, Finite Element Analysis, Advanced Control Systems
+            <b>Highlighted Courses&#58;</b> Artificial Intelligence, Finite Element Analysis, Advanced Control Systems
             - <b>Thesis&#58;</b> explore Machine Learning models to refine Reconstructed ECT images (Electrical Capacitance Tomography)
             - Thesis supported by <a href="https://www.pmo.ir/en/home">Port & Maritime Organization of Iran</a>
             - <b>Supervisor&#58;</b> <a href="https://scholar.google.com/citations?user=KnMXOMQAAAAJ&hl=en">Dr. Hossein Mousazadeh</a>
@@ -91,7 +91,7 @@ education:
         university: University of Tabriz
         time: 2016/09 - 2020/09
         details: |
-          <b>Highlighted Courses&#58;</b> Machanical Engineering Design, Maintenance Engineering, Computer Aided Design, Agricultural Machinery Design<br>
+            <b>Highlighted Courses&#58;</b> Machanical Engineering Design, Maintenance Engineering, Computer Aided Design, Agricultural Machinery Design<br>
             - <b>Projects:</b>
                 - Design a mechanical scissor jack <sup>(<b>Course&#58;</b> Mechanical Engineering Design)</sup>
                 - Design a basil harvesting machine <sup>(<b>Course&#58;</b> Harvesting Machinary Design)</sup>
@@ -103,7 +103,7 @@ experiences:
         time: 2024 - 2026
         company: <a href="https://ut.ac.ir/en"><b>University of Tehran</b></a>, Central Library of College of Agriculture and Natural Resources
         details: |
-          <i>Civilian National Service (Sarbazi Amrieh)</i>
+            <i>Civilian National Service (Sarbazi Amrieh)</i>
             - Managed and maintained library IT systems, workstations, and networked devices
             - Administered and updated institutional websites
             - Provided technical support and troubleshooting for students and staff
