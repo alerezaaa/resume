@@ -17,7 +17,7 @@ sidebar:
     #phone: 012 345 6789
     timezone: Asia/Tehran
     citizenship: Iran
-    website: alirezad.ir #do not add http://
+    website: https://alirezad.ir #do not add http://
     linkedin: dehghanzadeh
     #xing: alandoe
     github: alerezaaa
@@ -29,7 +29,7 @@ sidebar:
     stack-overflow: # 16308776/alireza # Number/Username, e.g. 123456/alandoe
     codewars: #alerezaaa
     goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon: # Please include your full Mastodon link here.
+    mastodon: https://chaos.social/@alireza # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
