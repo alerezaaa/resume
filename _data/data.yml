@@ -70,71 +70,59 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      An Iranian curious graduate student, widely known for his passion for learning and exploring new technologies. 
-      With a strong background in computer science and a keen interest in artificial intelligence, I am dedicated to expanding my knowledge and skills in the field. 
-      I am an active participant in online communities and enjoys sharing my insights and discoveries with others.
+      Resourceful engineer who enjoys coding, exploration, and solving real-world problems through creative, practical thinking. 
+      Especially interested in applied research and development, using machine learning, computer vision, and software tools to 
+      turn technical ideas into reliable, deployable solutions. Holds an M.Sc. from the University of Tehran with a thesis on machine 
+      learning for computational imaging — refinement of reconstructions of ECT, an ill-posed inverse problem. Also experienced 
+      in co-developing a real-time computer vision system deployed into industrial operation on embedded Linux, and currently 
+      building deep-learning pipelines for crack detection in surface imagery.
 
 education:
     title: Education
     info:
       - degree: M.Sc. in Biosystems Engineering
         university: University of Tehran
-        time: 2020/10 - 2023/09
+        time: 2020/10 - 2023/10
         details: |
-            - <b>Highlighted Courses&#58;</b> Artificial Intelligence, Finite Element Analysis, Advanced Control Systems
-            - <b>Thesis&#58;</b> explore Machine Learning models to refine Reconstructed ECT images (Electrical Capacitance Tomography)
-            - Thesis supported by <a href="https://www.pmo.ir/en/home">Port & Maritime Organization of Iran</a>
+            - <b>Grade&#58;</b> 16.70/20
+            - <b>Thesis&#58;</b> Machine Learning–Based Image Reconstruction Refinement in Electrical Capacitance Tomography, an ill-posed inverse problem.
             - <b>Supervisor&#58;</b> <a href="https://scholar.google.com/citations?user=KnMXOMQAAAAJ&hl=en">Dr. Hossein Mousazadeh</a>
-            - <b>Advisors&#58;</b> <a href="https://scholar.google.com/citations?user=OjQxBngAAAAJ&hl=en">Dr. Soleiman Hosseinpour</a> <a href="https://www.linkedin.com/in/soleiman-hosseinpour-5856191ab/"><i class="fab fa-linkedin"></i></a> and <a href="https://scholar.google.dk/citations?user=c0Ee4oIAAAAJ&hl=en">Dr. Hadi Karimi</a> <a href="https://www.linkedin.com/in/hadi-karimi-77865b87/"><i class="fab fa-linkedin"></i></a>
+            - <b>Co-supervisors&#58;</b> <a href="https://scholar.google.com/citations?user=OjQxBngAAAAJ&hl=en">Dr. Soleiman Hosseinpour</a> <a href="https://www.linkedin.com/in/soleiman-hosseinpour-5856191ab/"><i class="fab fa-linkedin"></i></a> and <a href="https://scholar.google.dk/citations?user=c0Ee4oIAAAAJ&hl=en">Dr. Hadi Karimi</a> <a href="https://www.linkedin.com/in/hadi-karimi-77865b87/"><i class="fab fa-linkedin"></i></a>
+            - Proposed and developed within a Port & Maritime Organization–funded ECT pipeline-monitoring project.
+            - Across separate best-performing configurations, test-set R² reached 0.87 and test-set RMSE was as low as 0.147.
+            - <b>Highlighted Courses&#58;</b> Artificial Intelligence, Finite Element Analysis, Advanced Control Systems
       
       - degree: BSc in Biosystems Engineering
-        university: University of Tabriz
+        university: Tabriz University
         time: 2016/09 - 2020/09
         details: |
-            - <b>Highlighted Courses&#58;</b> Machanical Engineering Design, Maintenance Engineering, Computer Aided Design, Agricultural Machinery Design<br>
-            - <b>Projects:</b>
-                - Design a mechanical scissor jack <sup>(<b>Course&#58;</b> Mechanical Engineering Design)</sup>
-                - Design a basil harvesting machine <sup>(<b>Course&#58;</b> Harvesting Machinary Design)</sup>
+            - <b>Grade&#58;</b> 15.11/20
+            - <b>Ranking&#58;</b> Ranked 9th in a cohort of 36 students.
+            - Collaborated on the design and structural analysis of a scissor jack using SolidWorks and Ansys, achieving the highest score in the Mechanical Engineering Design course; following this success, the instructor suggested tackling a real-world problem, leading the team to develop a basil-harvesting machine concept for small-plot farms.
 
 experiences:
     title: Experiences
     info:
-      - role: IT Support & Systems Administrator
+      - role: IT Support Specialist
         time: 2024/06 - 2026/04
-        company: <a href="https://ut.ac.ir/en"><b>University of Tehran</b></a>, Central Library of College of Agriculture and Natural Resources
+        company: <a href="https://ut.ac.ir/en"><b>University of Tehran</b></a>, Central Library, College of Agriculture and Natural Resources
         details: |
-            <i>Civilian National Service (Sarbazi Amrieh)</i>
-            - Managed and maintained library IT systems, workstations, and networked devices
-            - Administered and updated institutional websites
-            - Provided technical support and troubleshooting for students and staff
-            - Created instructional materials (videos, slides, documentation, print guides)
-            - Conducted user orientation and introductory IT sessions
+            <i>Amrieh — Iran's mandatory alternative to military service</i>
+            - Built a semi-automated data-entry system in Google Apps Script, reducing manual paperwork for library staff.
+            - Provided IT and network support, and delivered training in common software tools and basic computer literacy to staff and students.
             
-      - role: Researcher Assistant
-        time: 2021/10 - 2023/09
-        company: <a href="https://ut.ac.ir/en"><b>University of Tehran</b></a>
-        details: |
-          Conducted research in the field of Machine Learning to refine reconstructed Electrical Capacitance Tomography images.
-            - Developed and evaluated Machine Learning models for image refinement and noise reduction.
-            - Processed and analyzed ECT datasets using Python (Scikit-learn, Pandas, NumPy).
-            - Compared multiple Machine Learning algorithms to assess their advantages, limitations, and compatibility with ECT reconstruction methods.
-            - Studied tomography reconstruction techniques to enhance ECT imaging performance.
-            - Collaborated with academic supervisors and research team members on ML-based reconstruction pipeline development.
-            
-      - role: Research Assistant - Automation & Computer Vision
+      - role: Undergraduate Research Assistant, Precision Agriculture Lab
         time: 2019/03 - 2021/04
         company: <a href="https://tabrizu.ac.ir/en"><b>Tabriz University</b></a>, <a href="https://www.linkedin.com/company/precision-agriculture-research-team/posts/?feedView=all">Precision Agriculture group</a> (Biosystems Engineering department)
         details: |
-          Assisted in the design and development of smart agricultural machinery systems, focusing on automation, embedded systems, and computer vision applications. <br>
-          Supervised by <a href="https://www.researchgate.net/profile/Hossein-Navid">Dr. Hossein Navid</a> <a href="https://www.linkedin.com/in/hossein-navid-0915822a6/"><i class="fab fa-linkedin"></i></a>. <brb>
-          Advised by <a href="https://scholar.google.dk/citations?user=c0Ee4oIAAAAJ&hl=en">Dr. Hadi Karimi</a> <a href="https://www.linkedin.com/in/hadi-karimi-77865b87/"><i class="fab fa-linkedin"></i></a>.
-            - Designed and implemented a <b>computer vision–based pipe cutting system</b> using Raspberry Pi to detect precise clipping points on PVC ducts by identifying flat surface regions for accurate cuts.
-                - Developed a lightweight, noise-adaptive vision system optimized for real-time performance and integration with high-speed industrial machinery.
-            - Built a <b>wireless remote control system for a silage block cutting machine</b> to improve operator safety and precision.
-                - Implemented full machine control via TCP/UDP local network communication using an Android application.
-                - Integrated control logic with pneumatic and hydraulic valve systems for precise actuation.
-                - Contributed to reducing operator injury risks and improving cutting accuracy through automation.
-            - <b>Technologies & Tools&#58;</b> Python, Linux, Raspberry Pi, Arduino, C Programming, Electrical Circuit Design, Image Processing, TCP/UDP Networking
+          Volunteer position, supervised by <a href="https://www.researchgate.net/profile/Hossein-Navid">Prof. Hossein Navid</a> <a href="https://www.linkedin.com/in/hossein-navid-0915822a6/"><i class="fab fa-linkedin"></i></a> and <a href="https://scholar.google.dk/citations?user=c0Ee4oIAAAAJ&hl=en">Prof. Hadi Karimi</a> <a href="https://www.linkedin.com/in/hadi-karimi-77865b87/"><i class="fab fa-linkedin"></i></a>. <br>
+          <i>(continued part-time remotely after Sep 2020)</i>
+            - Co-developed a <b>real-time computer vision system for automated pipe cutting</b> by identifying flat surface regions, deployed in industrial operation and integrated with high-speed machinery.
+            - Designed and integrated the <b>hardware and electronic circuits</b> for the real-time vision system, including Raspberry Pi interfacing.
+            - Configured the <b>Raspberry Pi deployment end-to-end</b>, setting up the Linux environment, Python dependencies, and GPIO pin control for hardware communication.
+            - Collaborated on a <b>wireless remote-control system for a silage-block-cutting machine</b> to improve operator safety.
+            - Responsible for <b>electronic circuit design</b> and integration with pneumatic and hydraulic valve systems for precise actuation.
+            - Developed the <b>Arduino-based control firmware</b> and hardware-side logic for executing TCP/UDP commands.
 
 
 certifications:
