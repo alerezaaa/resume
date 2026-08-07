@@ -118,11 +118,11 @@ experiences:
           Volunteer position, supervised by <a href="https://www.researchgate.net/profile/Hossein-Navid">Prof. Hossein Navid</a> <a href="https://www.linkedin.com/in/hossein-navid-0915822a6/"><i class="fab fa-linkedin"></i></a> and <a href="https://scholar.google.dk/citations?user=c0Ee4oIAAAAJ&hl=en">Prof. Hadi Karimi</a> <a href="https://www.linkedin.com/in/hadi-karimi-77865b87/"><i class="fab fa-linkedin"></i></a>. <br>
           <i>(continued part-time remotely after Sep 2020)</i>
             - Co-developed a <b>real-time computer vision system for automated pipe cutting</b> by identifying flat surface regions, deployed in industrial operation and integrated with high-speed machinery.
-            - Designed and integrated the <b>hardware and electronic circuits</b> for the real-time vision system, including Raspberry Pi interfacing.
-            - Configured the <b>Raspberry Pi deployment end-to-end</b>, setting up the Linux environment, Python dependencies, and GPIO pin control for hardware communication.
+                - Designed and integrated the <b>hardware and electronic circuits</b> for the real-time vision system, including Raspberry Pi interfacing.
+                - Configured the <b>Raspberry Pi deployment end-to-end</b>, setting up the Linux environment, Python dependencies, and GPIO pin control for hardware communication.
             - Collaborated on a <b>wireless remote-control system for a silage-block-cutting machine</b> to improve operator safety.
-            - Responsible for <b>electronic circuit design</b> and integration with pneumatic and hydraulic valve systems for precise actuation.
-            - Developed the <b>Arduino-based control firmware</b> and hardware-side logic for executing TCP/UDP commands.
+                - Responsible for <b>electronic circuit design</b> and integration with pneumatic and hydraulic valve systems for precise actuation.
+                - Developed the <b>Arduino-based control firmware</b> and hardware-side logic for executing TCP/UDP commands.
 
 
 certifications:
@@ -133,10 +133,12 @@ certifications:
           end: 2026
           organization: Harvard University
           credentialid: 
-          credentialurl: 
+          credentialurl: https://certificates.cs50.io/9b679a6e-6bd0-4ea1-b956-f7473696e9d2.pdf?size=letter
           credentialname: Harvard certification
           details: |
-            CS50's Introduction to Computer Science (CS50x) — Harvard University, 2026
+            A rigorous, self-paced online course offered by Harvard University and taught by Prof. David J. Malan. 
+            It covers fundamental computer science concepts including algorithms, data structures, memory management, and web development through hands-on problem sets in C, Python, SQL, and JavaScript. 
+            The course is equivalent to Harvard's on-campus CS50 and is one of the most widely taken CS courses globally, recognized for its depth and demanding project-based assessments.
 
         - name: Machine Learning in Python with scikit-learn
           start: 2023
@@ -146,7 +148,8 @@ certifications:
           credentialurl: openbadgefactory.com/v1/assertion/454d416de1e0ee727dd97fbd81fa89362c3d5230.html
           credentialname: Inria
           details: |
-            Machine Learning in Python with scikit-learn — Inria / France Université Numérique (2023)
+            An in-depth MOOC taught by scikit-learn core developers at Inria, focusing on practical predictive modeling. 
+            It covers the complete machine learning pipeline, including model selection, hyperparameter tuning, performance evaluation, and the implementation of linear, tree-based, and ensemble algorithms using Python.
 
         - name: Machine Learning
           start: 2022
