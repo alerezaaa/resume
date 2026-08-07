@@ -126,54 +126,37 @@ experiences:
 
 
 certifications:
-      title: Certifications
+      title: Certifications &amp; Training
       list:
-        - name: CS50 Understanding Technology
-          start: 2023
-          end: 2023
+        - name: CS50's Introduction to Computer Science (CS50x)
+          start: 2026
+          end: 2026
           organization: Harvard University
-          credentialid: a72d88d7-d288-4fb9-b7c0-e017542b0be1
-          credentialurl: cs50.harvard.edu/certificates/a72d88d7-d288-4fb9-b7c0-e017542b0be1
+          credentialid: 
+          credentialurl: 
           credentialname: Harvard certification
           details: |
-            You need to understand computers to work with them. This course extend my knowledge about computer a bit and
-            it did not take me a long time.
-            It was a good start point to continue taking CS50 bundle.
-            
+            CS50's Introduction to Computer Science (CS50x) — Harvard University, 2026
 
-        - name: Machine learning in Python with scikit-learn
+        - name: Machine Learning in Python with scikit-learn
           start: 2023
           end: 2023
-          organization: France Université Numérique
+          organization: Inria / France Université Numérique
           credentialid: 454d416de1e0ee727dd97fbd81fa89362c3d5230
           credentialurl: openbadgefactory.com/v1/assertion/454d416de1e0ee727dd97fbd81fa89362c3d5230.html
           credentialname: Inria
           details: |
-            Build predictive models with scikit-learn and gain a practical understanding of 
-            the strengths and limitations of machine learning! 
-            (<a target="_blank" href='https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/'>link to course)</a>
+            Machine Learning in Python with scikit-learn — Inria / France Université Numérique (2023)
 
-            After learning basics of Machine learning, now its time to hands-on experience and expand knowledge with practicing. 
-            The goal of this course is to teach machine learning with scikit-learn to beginners, even without a strong technical background.
-
-        
         - name: Machine Learning
           start: 2022
           end: 2022
-          organization: Stanford
+          organization: Stanford University
           credentialid: BEYRHUN8XPLX
           credentialurl: www.coursera.org/account/accomplishments/certificate/BEYRHUN8XPLX
           credentialname: Coursera certification
           details: |
-            Machine learning course taught by Prof. Andrew Ng, Associate professor
-            at Stanford University.
-
-            I believe learning basics is the most important point of acquiring knowledge.
-            This course tought me perfect ML basics alongside whatever I learnt from AI course
-            by <a target="_blank" href='https://www.linkedin.com/in/mahmoud-omid-4057b015a/'>Dr. Mahmoud Omid</a> in Univesity of Tehran.
-            (There is a <a target="_blank" href='https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU'>free Standford course in Youtube</a>
-            which is close to Coursera course but Youtube's is a little harder and goes deeper in Mathematical details.)
-
+            Machine Learning — Stanford University (Andrew Ng), Coursera (2022)
 
 
 projects:
