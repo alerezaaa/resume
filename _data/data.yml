@@ -133,7 +133,7 @@ certifications:
           end: 2026
           organization: Harvard University
           credentialid: 
-          credentialurl: https://certificates.cs50.io/9b679a6e-6bd0-4ea1-b956-f7473696e9d2.pdf?size=letter
+          credentialurl: https://cs50.harvard.edu/certificates/9b679a6e-6bd0-4ea1-b956-f7473696e9d2
           credentialname: Harvard certification
           details: |
             A rigorous, self-paced online course offered by Harvard University and taught by Prof. David J. Malan. 
