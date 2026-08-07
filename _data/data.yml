@@ -159,7 +159,8 @@ certifications:
           credentialurl: www.coursera.org/account/accomplishments/certificate/BEYRHUN8XPLX
           credentialname: Coursera certification
           details: |
-            Machine Learning — Stanford University (Andrew Ng), Coursera (2022)
+            Taught by AI pioneer Andrew Ng, this foundational course covers machine learning, data mining, and statistical pattern recognition.
+            It provides practical implementation of supervised and unsupervised algorithms (including SVMs, neural networks, and clustering) alongside industry best practices for model evaluation and real-world AI applications.
 
 
 projects:
