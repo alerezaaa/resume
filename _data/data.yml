@@ -290,16 +290,16 @@ skills:
 
   toolset:
   - name: Python (PyTorch, Kivy, Scikit-learn, Pandas, NumPy, Flask, Jupyter)
-    level: 75%
+    # level: 75%
 
   - name: Machine Learning (Supervised Learning, Cross-Validation, Feature Engineering, Deep Learning)
-    level: 55%
+    # level: 55%
   
   - name: Linux, Git, GitHub Actions (CI/CD), Docker
-    level: 60%
+    # level: 60%
   
   - name: Raspberry Pi, Arduino, Electrical Circuit Design
-    level: 50%
+    # level: 50%
 
 # publications:
 #     title: Certifications
