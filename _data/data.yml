@@ -229,38 +229,38 @@ recommendations:
     email: shosseinpour@ut.ac.ir
     phone: 
     role: Professor of Biosystems Engineering, University of Tehran, Iran
-    recommendation: |
-      <b>Alternative Email:</b> <a href="mailto:slmn.hosseinpour@gmail.com">slmn.hosseinpour@gmail.com</a>
+    # recommendation: |
+    #   <b>Alternative Email:</b> <a href="mailto:slmn.hosseinpour@gmail.com">slmn.hosseinpour@gmail.com</a>
 
   - person: Dr. Hadi Karimi
     email: h_karimi@areeo.ac.ir
     phone: 
     role: Assistant Professor of Biosystems Engineering, Agricultural Engineering Research Institute, Iran
-    recommendation: |
-      <b>Alternative Email:</b> <a href="mailto:karimi.areeo@gmail.com">karimi.areeo@gmail.com</a>
+    # recommendation: |
+    #   <b>Alternative Email:</b> <a href="mailto:karimi.areeo@gmail.com">karimi.areeo@gmail.com</a>
 
   - person: Dr. Atefeh Parvaresh Rizi
     email: parvarsh@ut.ac.ir
     phone: 
     role: Professor of Water Engineering, Director of the Central Library, College of Agriculture and Natural Resources, University of Tehran, Iran
-    recommendation: |
+    # recommendation: |
 
 
-skills:
-  title: Skills &amp; Proficiency
+# skills:
+#   title: Skills &amp; Proficiency
 
-  toolset:
-  - name: Python (scikit-learn, OpenCV, Kivy, SQLite, Google Apps Script)
-    # level: 75%
+#   toolset:
+#   - name: Python (scikit-learn, OpenCV, Kivy, SQLite, Google Apps Script)
+#     # level: 75%
 
-  - name: Machine Learning (MLP, Logistic Regression, Gradient Boosting, k-NN, Cross-Validation)
-    # level: 55%
+#   - name: Machine Learning (MLP, Logistic Regression, Gradient Boosting, k-NN, Cross-Validation)
+#     # level: 55%
   
-  - name: Linux, Raspberry Pi OS, Miniconda, Git, GitHub Actions (CI/CD)
-    # level: 60%
+#   - name: Linux, Raspberry Pi OS, Miniconda, Git, GitHub Actions (CI/CD)
+#     # level: 60%
   
-  - name: Raspberry Pi, Arduino (C), Electronic Circuits, SolidWorks, Ansys (FEM)
-    # level: 50%
+#   - name: Raspberry Pi, Arduino (C), Electronic Circuits, SolidWorks, Ansys (FEM)
+#     # level: 50%
 
 # publications:
 #     title: Certifications
