@@ -164,7 +164,7 @@ projects:
       
     assignments:
       - title: Shrimp Aquaculture Data-Entry App
-        link: "#"
+        link: "https://github.com/alerezaaa/shrimp_data_entry_project"
         tagline: |
             <i>CS50x Final Project; first release of a broader aquaculture-management system (Dec 2025 – Present).</i><br>
                 - Developed and released (v1.0) a Python/Kivy mobile application for recording shrimp-farming data and storing records locally in SQLite.<br>
@@ -222,26 +222,26 @@ oss:
 #     conference: "Comm. ACM 4 (1961), 51–55"
 
 
-recommendations:
-  title: References
-  list:
-  - person: Dr. Soleiman Hosseinpour
-    email: shosseinpour@ut.ac.ir
-    phone: 
-    role: Professor of Biosystems Engineering, University of Tehran, Iran
-    recommendation: |
+# recommendations:
+#   title: References
+#   list:
+#   - person: Dr. Soleiman Hosseinpour
+#     email: shosseinpour@ut.ac.ir
+#     phone: 
+#     role: Professor of Biosystems Engineering, University of Tehran, Iran
+#     recommendation: |
 
-  - person: Dr. Hadi Karimi
-    email: h_karimi@areeo.ac.ir
-    phone: 
-    role: Assistant Professor of Biosystems Engineering, Agricultural Engineering Research Institute, Iran
-    recommendation: |
+#   - person: Dr. Hadi Karimi
+#     email: h_karimi@areeo.ac.ir
+#     phone: 
+#     role: Assistant Professor of Biosystems Engineering, Agricultural Engineering Research Institute, Iran
+#     recommendation: |
 
-  - person: Dr. Atefeh Parvaresh Rizi
-    email: parvarsh@ut.ac.ir
-    phone: 
-    role: Professor of Water Engineering, Director of the Central Library, College of Agriculture and Natural Resources, University of Tehran, Iran
-    recommendation: |
+#   - person: Dr. Atefeh Parvaresh Rizi
+#     email: parvarsh@ut.ac.ir
+#     phone: 
+#     role: Professor of Water Engineering, Director of the Central Library, College of Agriculture and Natural Resources, University of Tehran, Iran
+#     recommendation: |
 
 
 # skills:
