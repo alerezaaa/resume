@@ -229,21 +229,19 @@ recommendations:
     email: shosseinpour@ut.ac.ir
     phone: 
     role: Professor of Biosystems Engineering, University of Tehran, Iran
-    # recommendation: |
-    #   <b>Alternative Email:</b> <a href="mailto:slmn.hosseinpour@gmail.com">slmn.hosseinpour@gmail.com</a>
+    recommendation: |
 
   - person: Dr. Hadi Karimi
     email: h_karimi@areeo.ac.ir
     phone: 
     role: Assistant Professor of Biosystems Engineering, Agricultural Engineering Research Institute, Iran
-    # recommendation: |
-    #   <b>Alternative Email:</b> <a href="mailto:karimi.areeo@gmail.com">karimi.areeo@gmail.com</a>
+    recommendation: |
 
   - person: Dr. Atefeh Parvaresh Rizi
     email: parvarsh@ut.ac.ir
     phone: 
     role: Professor of Water Engineering, Director of the Central Library, College of Agriculture and Natural Resources, University of Tehran, Iran
-    # recommendation: |
+    recommendation: |
 
 
 # skills:
